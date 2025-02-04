@@ -47,7 +47,12 @@ Drill down into reports to explore granular data.
 
 Export reports in PDF or Excel format for offline analysis.
 
-Busniess Term used :-
+Busniess Term used :- 
+
+ Gross Margin,NetSales,NetProfit
+ Pre-invoice Deduction,Post-invoice Deduction
+ BenchMark,Year TO Date,Year To Go,FiscalYaer
+ COGS-Cost of Goods Sale,ABS Error
 
 
 
